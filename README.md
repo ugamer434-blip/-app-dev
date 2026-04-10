@@ -1,4 +1,4 @@
-# Visco, Mark Laurence S.
+<h1>Basic Syntax</h1>
 <h3>My Favorite series/movie</h3>
 
 <p>Here are the lists:</p>
@@ -29,3 +29,24 @@
 </ol>
 
 
+<h1>Extended Syntax</h1>
+
+| Good Ending      | Bad Ending |
+| ----------- | ----------- |
+| Fullmetal      | Devilman       |
+| Mob Psycho   | Cyberpunk        |
+
+<dl>
+  <dt>Saitama</dt>
+  <dd>The man that trained hard on his own</dd>
+</dl>
+
+<p>Famous lines from Naruto Shippuden.</p>
+
+- [x] This world shall know pain.
+- [ ] This planet shall perish
+- [ ] This is the end.
+
+<mark>This is the end of my work :D</mark>.
+
+See ya'll around. :joy:
